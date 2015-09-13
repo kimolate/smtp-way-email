@@ -1,0 +1,7 @@
+c:\users\ki\documents\visual studio 2010\Projects\smtp邮箱\smtp邮箱\bin\Debug\smtp邮箱.exe
+c:\users\ki\documents\visual studio 2010\Projects\smtp邮箱\smtp邮箱\bin\Debug\smtp邮箱.pdb
+c:\users\ki\documents\visual studio 2010\Projects\smtp邮箱\smtp邮箱\obj\x86\Debug\smtp邮箱.Form1.resources
+c:\users\ki\documents\visual studio 2010\Projects\smtp邮箱\smtp邮箱\obj\x86\Debug\smtp邮箱.Properties.Resources.resources
+c:\users\ki\documents\visual studio 2010\Projects\smtp邮箱\smtp邮箱\obj\x86\Debug\smtp邮箱.csproj.GenerateResource.Cache
+c:\users\ki\documents\visual studio 2010\Projects\smtp邮箱\smtp邮箱\obj\x86\Debug\smtp邮箱.exe
+c:\users\ki\documents\visual studio 2010\Projects\smtp邮箱\smtp邮箱\obj\x86\Debug\smtp邮箱.pdb
